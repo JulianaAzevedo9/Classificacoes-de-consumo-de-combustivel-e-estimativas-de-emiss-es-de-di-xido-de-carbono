@@ -13,4 +13,4 @@ objetivo: criar um modelo de regressão linear simples a partir de uma dessas ca
 
 A base para classificações no consumo de combustível e estimativas de emissões de dióxido de carbono são os seguintes:
 
-![Regressão Linear Simples](https://github.com/JulianaAzevedo9/Classificacoes-de-consumo-de-combustivel-e-estimativas-de-emiss-es-de-di-xido-de-carbono/blob/main/RegressaolinearparapreveroconsumodeCO2(1).ipynb)
+![Regressão Linear Simples Para Prever Consumo De CO2](https://github.com/JulianaAzevedo9/Classificacoes-de-consumo-de-combustivel-e-estimativas-de-emiss-es-de-di-xido-de-carbono/blob/main/RegressaolinearparapreveroconsumodeCO2(1).ipynb)
